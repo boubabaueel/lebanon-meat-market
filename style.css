@@ -6,12 +6,19 @@ background-color: #f1f6f2e2;
 .contact-title{
     background-color: #131d2aba;
     padding: 10px;
-    font-size: 10px;
+  font: 300px;
     margin: 10px;
     color:white ;
     
 }
-
+.always{
+    color: rgb(240, 222, 116);
+    font-size: xx-large;
+    text-align: center;
+    font-weight: 900;
+    padding: 25%;
+    
+}
 h4{
     color: #fffffff2;
     background-color: #22405bbb;
@@ -63,7 +70,7 @@ h4{
     
 }
    .nav-logo {
-    font-size: 1.7rem;
+    font-size: 1.3rem;
     color: #af2121;
         text-decoration: none;
    color:  rgb(255, 255, 255);
