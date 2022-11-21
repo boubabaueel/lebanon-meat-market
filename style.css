@@ -46,8 +46,17 @@ h4{
        background-position: center;
        background-size: cover;
        background-repeat: no-repeat;
-     
+     margin-bottom: 10px;
        background-image: url(img4.jpg);
+   }
+   .c-headimg{
+    background-attachment:initial;
+       margin-top: 10px;
+       margin-bottom: 10px;
+       background-position: center;
+       background-size: cover;
+       background-repeat: no-repeat;
+     background-image: url(back.jpg);
    }
    .header{background-color: #0d2a2f;
     margin-bottom: 10px;
@@ -71,14 +80,15 @@ h4{
    }
    .wel{
     text-align: center;
-    background-color: rgba(38, 28, 28, 0.828);
+    background-color: rgba(74, 73, 73, 0.341);
     padding: 20px;
+    
    }
    .welcome{
     color: #ffffff;
    }
    .ka{
-    color: rgb(255, 106, 0);
+    color: rgb(142, 239, 38);
    }
    .punchline{
     color: rgb(4, 239, 248);
