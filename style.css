@@ -158,6 +158,28 @@ h4{
 
 
 @media screen and (min-width: 250px) and (max-width: 599px){
+    .service{color: rgba(255, 255, 255, 0.885);
+        padding: 10px;
+        margin-left: 20%;
+        text-align: center;
+        max-width: 60%;
+   
+    text-align: center;
+background-color: rgba(6, 41, 63, 0.885)}
+    .service-p{
+        color: rgb(233, 134, 134);
+        text-align: center;
+          margin: 10px;
+          padding: 10px;
+            font-size: 20px;
+            line-height: 1.3em;
+            font-weight: 550;
+        
+    }
+    .service-wrapper{
+        background-color: #9393933e;
+
+    }
   
     .header{
         border-bottom: 1px solid #E2E8F0;
@@ -381,6 +403,28 @@ font-family:Georgia, 'Times New Roman', Times, serif
 
 /*TABLET MEDIA QUERY*/
 @media screen and (min-width: 600px) and (max-width: 769px){
+    .service{color: rgba(255, 255, 255, 0.885);
+        padding: 10px;
+        margin-left: 20%;
+        text-align: center;
+        max-width: 60%;
+   
+    text-align: center;
+background-color: rgba(6, 41, 63, 0.885)}
+    .service-p{
+        color: rgb(233, 134, 134);
+        text-align: center;
+          margin: 10px;
+          padding: 10px;
+            font-size: 20px;
+            line-height: 1.3em;
+            font-weight: 550;
+        
+    }
+    .service-wrapper{
+        background-color: #9393933e;
+
+    }
  
     .header{
         border-bottom: 1px solid #E2E8F0;
@@ -632,6 +676,30 @@ text-align: center;}
 
 /*DESKTOP MEDIA QUERY*/
 @media screen and (min-width:769px) {
+    .service{color: rgba(255, 255, 255, 0.885);
+        padding: 10px;
+        margin-left: 20%;
+        text-align: center;
+        max-width: 60%;
+   
+    text-align: center;
+background-color: rgba(6, 41, 63, 0.885)}
+        .service-p{
+            color: rgb(233, 134, 134);
+            padding: 10px;
+            padding-left: 20%;
+            text-align: center;
+            max-width: 60%;
+            margin: 10px;
+            font-size: 20px;
+            line-height: 1.3em;
+            font-weight: bolder;
+        }
+        .service-wrapper{
+            background-color: #9393933e;
+           
+       
+        }
 
     .header{
         border-bottom: 1px solid #E2E8F0;
