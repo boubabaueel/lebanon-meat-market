@@ -3,6 +3,16 @@
 background-color: #f1f6f2e2;
 
 }
+.a-headimg{
+    background-attachment:initial;
+       margin-top: 10px;
+       background-position:top;
+       background-size: contain;
+       background-repeat: no-repeat;
+       height: 100px;
+       margin-bottom: 20px;
+       background-image: url(thumbnail.jpg);
+   }
 .footer{
     background-color:#f1f6f2e2 ;
     padding: 10px;
@@ -46,15 +56,7 @@ h4{
       
    }
 
-   .a-headimg{
-    background-attachment:initial;
-       margin-top: 10px;
-       background-position: center;
-       background-size: cover;
-       background-repeat: no-repeat;
-       max-height: 300px;
-       background-image: url(img3.jpg);
-   }
+  
    .b-headimg{
     background-attachment:initial;
        margin-top: 10px;
@@ -170,6 +172,9 @@ h4{
     .psa{
         padding: 0 5%;
         color: #788e92;
+        margin: 2px;
+            
+
     }
     .info{
         text-align: center;
@@ -186,6 +191,7 @@ h4{
 
 
 @media screen and (min-width: 250px) and (max-width: 599px){
+ 
     .service{color: rgba(255, 255, 255, 0.885);
         padding: 10px;
         margin-left: 20%;
@@ -909,7 +915,17 @@ text-align: center;}
     
 
 }
-.psa{color: #000000;}
+.psa{
+    color: #788e92;
+    padding-left: 20%;
+    text-align: center;
+    max-width: 60%;
+    margin: 10px;
+    font-size: 15px;
+
+    
+
+}
 #about{background-image: url(kalahari.jpg);
     background-size: cover;
     
